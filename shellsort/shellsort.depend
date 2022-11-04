@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667573042 source:c:\users\facom\desktop\shellsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
